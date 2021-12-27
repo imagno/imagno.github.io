@@ -1,3 +1,11 @@
-# sample-resume-page
+![Banner Nulab](/assets/img/banner-nulab.png)
+# Programa de Formação - NuLab Salvador
 
-Para executar localmente o projeto você pode instalar a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) no VSCode. Com o plugin instalado, selecione o projeto e clique no botão "Go Live" no canto inferior direito do VSCode. O navegador deve ser aberto apontando para <127.0.0.1:5000> e sua página deve ser exibida.
+## Aula de Git & Github do curso da Alura de Backend com Node.JS
+#### Proposta
+
+Criação e hospedagem de uma página pessoal no [GitHub Pages](https://pages.github.com/).
+
+#### Projeto
+
+[Minha Página Pessoal](https://imagno.github.io/)
