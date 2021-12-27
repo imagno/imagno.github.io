@@ -8,4 +8,4 @@ Criação e hospedagem de uma página pessoal no [GitHub Pages](https://pages.gi
 
 #### Projeto
 
-[Minha Página Pessoal](https://imagno.github.io/)
+[Minha Página Pessoal](https://imagnowebdev.netlify.app/#page-top/)
