@@ -11419,6 +11419,9 @@ section.resume-section {
 section.resume-section .resume-section-content {
   width: 100%;
 }
+.link-decoration {
+  text-decoration-line: none;
+}
 
 @media (min-width: 768px) {
   section.resume-section {
